@@ -15,7 +15,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone [URL репозитория]
+git clone https://github.com/Yodzhik/chips-list.git
 
 # Перейти в директорию проекта
 cd chips
